@@ -1,0 +1,4 @@
+#my config
+*.ini
+*.so
+test.txt
